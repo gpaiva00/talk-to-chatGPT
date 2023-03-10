@@ -1,0 +1,1 @@
+export const SPEECH_LANGUAGE = 'en-US';
